@@ -1,0 +1,55 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Theme - itg.flat/Lollypop unicorn.tmTheme",
+	"fade_fold_buttons": false,
+	"file_exclude_patterns":
+	[
+		"*.pyo",
+		"*.so",
+		"*.sdf",
+		"*.dylib",
+		"*.idb",
+		"*.pdb",
+		"*.ncb",
+		"*.pyc",
+		"*.class",
+		"*.lib",
+		"*.obj",
+		"*.exe",
+		".DS_Store",
+		"*.psd",
+		"*.dll",
+		"*.a",
+		"*.o",
+		"*.db",
+		"*.suo"
+	],
+	"folder_exclude_patterns":
+	[
+		".hg",
+		".git",
+		"CVS",
+		".svn"
+	],
+	"font_face": "M+ 1m custom",
+	"font_size": 17.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"YUI Compressor"
+	],
+	"itg_small_tabs": true,
+	"line_padding_bottom": 3,
+	"line_padding_top": 2,
+	"tab_size": 2,
+	"theme": "itg.flat.dark.sublime-theme",
+	"xfolder_exclude_patterns":
+	[
+		".hg",
+		".git",
+		"CVS",
+		"node_modules",
+		".svn"
+	]
+}
